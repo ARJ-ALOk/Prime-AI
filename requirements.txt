@@ -1,0 +1,8 @@
+requests
+python-dotenv
+sounddevice
+vosk
+soundfile
+pillow
+pyautogui
+google-search-results
